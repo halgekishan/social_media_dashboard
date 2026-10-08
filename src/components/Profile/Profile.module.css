@@ -1,0 +1,5 @@
+.wrap { display: flex; gap: 16px; align-items: flex-start; flex-wrap: wrap; }
+.wrap h2, .wrap p { margin: 0 0 6px; }
+.avatar { width: 90px; height: 90px; border-radius: 50%; }
+.handle, .stats { opacity: .7; font-size: 14px; }
+.textarea { width: 100%; min-height: 80px; margin-bottom: 10px; padding: 8px; border-radius: 8px; border: 1px solid var(--border); background: var(--bg); color: var(--text); box-sizing: border-box; }

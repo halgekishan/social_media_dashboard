@@ -1,0 +1,3 @@
+.item { display: flex; justify-content: space-between; gap: 8px; padding: 12px; border-radius: 8px; cursor: pointer; border-bottom: 1px solid var(--border); }
+.unread { background: var(--hover); font-weight: 600; }
+.item small { opacity: .6; white-space: nowrap; }
